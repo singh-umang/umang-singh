@@ -1,2 +1,2 @@
 # umang-singh
-this is a demo for git &amp; githup class
+this is a demo for git &amp; githup class.
